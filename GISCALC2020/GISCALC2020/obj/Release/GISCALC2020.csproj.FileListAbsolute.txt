@@ -1,0 +1,31 @@
+C:\作業用\開発ツール\GISCALC2020\GISCALC2020\bin\Release\GISCALC2020.exe.config
+C:\作業用\開発ツール\GISCALC2020\GISCALC2020\bin\Release\GISCALC2020.exe
+C:\作業用\開発ツール\GISCALC2020\GISCALC2020\bin\Release\GISCALC2020.pdb
+C:\作業用\開発ツール\GISCALC2020\GISCALC2020\obj\Release\GISCALC2020.csprojAssemblyReference.cache
+C:\作業用\開発ツール\GISCALC2020\GISCALC2020\obj\Release\GISCALC2020.Form1.resources
+C:\作業用\開発ツール\GISCALC2020\GISCALC2020\obj\Release\GISCALC2020.Properties.Resources.resources
+C:\作業用\開発ツール\GISCALC2020\GISCALC2020\obj\Release\GISCALC2020.csproj.GenerateResource.cache
+C:\作業用\開発ツール\GISCALC2020\GISCALC2020\obj\Release\GISCALC2020.csproj.CoreCompileInputs.cache
+C:\作業用\開発ツール\GISCALC2020\GISCALC2020\obj\Release\GISCALC2020.exe
+C:\作業用\開発ツール\GISCALC2020\GISCALC2020\obj\Release\GISCALC2020.pdb
+D:\開発ツール\GISCALC2020\GISCALC2020\bin\Release\GISCALC2020.exe.config
+D:\開発ツール\GISCALC2020\GISCALC2020\bin\Release\GISCALC2020.exe
+D:\開発ツール\GISCALC2020\GISCALC2020\bin\Release\GISCALC2020.pdb
+D:\開発ツール\GISCALC2020\GISCALC2020\obj\Release\GISCALC2020.csproj.AssemblyReference.cache
+D:\開発ツール\GISCALC2020\GISCALC2020\obj\Release\GISCALC2020.csproj.SuggestedBindingRedirects.cache
+D:\開発ツール\GISCALC2020\GISCALC2020\obj\Release\GISCALC2020.Form1.resources
+D:\開発ツール\GISCALC2020\GISCALC2020\obj\Release\GISCALC2020.Properties.Resources.resources
+D:\開発ツール\GISCALC2020\GISCALC2020\obj\Release\GISCALC2020.csproj.GenerateResource.cache
+D:\開発ツール\GISCALC2020\GISCALC2020\obj\Release\GISCALC2020.csproj.CoreCompileInputs.cache
+D:\開発ツール\GISCALC2020\GISCALC2020\obj\Release\GISCALC2020.exe
+D:\開発ツール\GISCALC2020\GISCALC2020\obj\Release\GISCALC2020.pdb
+C:\Users\kenji.24mura\OneDrive - FUJITSU\開発ツール\GISCALC2020\GISCALC2020\bin\Release\GISCALC2020.exe.config
+C:\Users\kenji.24mura\OneDrive - FUJITSU\開発ツール\GISCALC2020\GISCALC2020\bin\Release\GISCALC2020.exe
+C:\Users\kenji.24mura\OneDrive - FUJITSU\開発ツール\GISCALC2020\GISCALC2020\bin\Release\GISCALC2020.pdb
+C:\Users\kenji.24mura\OneDrive - FUJITSU\開発ツール\GISCALC2020\GISCALC2020\obj\Release\GISCALC2020.Form1.resources
+C:\Users\kenji.24mura\OneDrive - FUJITSU\開発ツール\GISCALC2020\GISCALC2020\obj\Release\GISCALC2020.Properties.Resources.resources
+C:\Users\kenji.24mura\OneDrive - FUJITSU\開発ツール\GISCALC2020\GISCALC2020\obj\Release\GISCALC2020.csproj.GenerateResource.cache
+C:\Users\kenji.24mura\OneDrive - FUJITSU\開発ツール\GISCALC2020\GISCALC2020\obj\Release\GISCALC2020.csproj.CoreCompileInputs.cache
+C:\Users\kenji.24mura\OneDrive - FUJITSU\開発ツール\GISCALC2020\GISCALC2020\obj\Release\GISCALC2020.exe
+C:\Users\kenji.24mura\OneDrive - FUJITSU\開発ツール\GISCALC2020\GISCALC2020\obj\Release\GISCALC2020.pdb
+C:\Users\kenji.24mura\OneDrive - FUJITSU\開発ツール\GISCALC2020\GISCALC2020\obj\Release\GISCALC2020.csproj.AssemblyReference.cache

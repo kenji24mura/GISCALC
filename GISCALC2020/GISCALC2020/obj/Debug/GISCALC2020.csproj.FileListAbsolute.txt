@@ -1,0 +1,9 @@
+C:\Users\kenji.24mura\OneDrive - FUJITSU\開発ツール\GISCALC2020\GISCALC2020\bin\Debug\GISCALC2020.exe.config
+C:\Users\kenji.24mura\OneDrive - FUJITSU\開発ツール\GISCALC2020\GISCALC2020\bin\Debug\GISCALC2020.exe
+C:\Users\kenji.24mura\OneDrive - FUJITSU\開発ツール\GISCALC2020\GISCALC2020\bin\Debug\GISCALC2020.pdb
+C:\Users\kenji.24mura\OneDrive - FUJITSU\開発ツール\GISCALC2020\GISCALC2020\obj\Debug\GISCALC2020.Form1.resources
+C:\Users\kenji.24mura\OneDrive - FUJITSU\開発ツール\GISCALC2020\GISCALC2020\obj\Debug\GISCALC2020.Properties.Resources.resources
+C:\Users\kenji.24mura\OneDrive - FUJITSU\開発ツール\GISCALC2020\GISCALC2020\obj\Debug\GISCALC2020.csproj.GenerateResource.cache
+C:\Users\kenji.24mura\OneDrive - FUJITSU\開発ツール\GISCALC2020\GISCALC2020\obj\Debug\GISCALC2020.csproj.CoreCompileInputs.cache
+C:\Users\kenji.24mura\OneDrive - FUJITSU\開発ツール\GISCALC2020\GISCALC2020\obj\Debug\GISCALC2020.exe
+C:\Users\kenji.24mura\OneDrive - FUJITSU\開発ツール\GISCALC2020\GISCALC2020\obj\Debug\GISCALC2020.pdb
